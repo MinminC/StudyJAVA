@@ -1,6 +1,6 @@
-package com.kh.run;
+package com.kh.examples.run;
 
-import com.kh.kimminjeong.Practice5ClassLots;
+import com.kh.examples.model.vo.Practice5ClassLots;
 
 public class Practice5LotsRun {
 

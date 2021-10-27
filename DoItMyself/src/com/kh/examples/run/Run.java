@@ -1,6 +1,6 @@
-package com.kh.run;
-import com.kh.kimminjeong.IfPractice2;
-import com.kh.kimminjeong.Practice4Array;
+package com.kh.examples.run;
+import com.kh.examples.model.vo.Practice2If;
+import com.kh.examples.model.vo.Practice4Array;
 //import com.kh.kimminjeong.VariablePractice1;
 public class Run {
 	public static void main(String[] args) {
@@ -9,7 +9,7 @@ public class Run {
 //		vp1.question2();
 //		vp1.question3();
 //		vp1.question4();
-		IfPractice2 ip2 = new IfPractice2();
+		Practice2If ip2 = new Practice2If();
 //		ip2.question1();
 //		ip2.question2();
 //		ip2.question3();

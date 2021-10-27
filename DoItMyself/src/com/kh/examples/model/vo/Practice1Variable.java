@@ -1,8 +1,8 @@
-package com.kh.kimminjeong;
+package com.kh.examples.model.vo;
 
 import java.util.Scanner;
 
-public class VariablePractice1 {
+public class Practice1Variable {
 	// 클래스명 : VariablePractice1
 	// 메인메소드를 제외한 모든 메소드 이 클래스에 작성
 	Scanner sc = new Scanner(System.in);// 클래스 내내 계속 입력받아서 이쪽으로 옮김

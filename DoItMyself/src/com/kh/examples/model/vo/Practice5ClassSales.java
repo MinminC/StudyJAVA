@@ -1,4 +1,4 @@
-package com.kh.kimminjeong;
+package com.kh.examples.model.vo;
 
 import java.util.Scanner;
 
@@ -26,11 +26,11 @@ public class Practice5ClassSales {
 	}
 
 	public void cancel() {
-		fCount--;
-		total -= 10;
-		if (total < 0) {
+		if (total <= 0) {
 			System.out.println("취소할 금액이 없습니다.");
 			return;
 		}
+		fCount--;
+		total -= 10;
 	}
 }

@@ -1,8 +1,8 @@
-package com.kh.kimminjeong;
+package com.kh.examples.model.vo;
 
 import java.util.Scanner;
 
-public class IfPractice2 {
+public class Practice2If {
 	static Scanner sc = new Scanner(System.in);// 모든 메소드에서 사용하여 위로 옮김
 	public void question1() {
 		System.out.println("------1번 문제------");

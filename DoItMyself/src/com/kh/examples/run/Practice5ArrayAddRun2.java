@@ -1,8 +1,8 @@
-package com.kh.run;
+package com.kh.examples.run;
 
-import com.kh.kimminjeong.Practice5ArrayAdd;
+import com.kh.examples.model.vo.Practice5ArrayAdd;
 
-public class Practice5ArrayAddRun {
+public class Practice5ArrayAddRun2 {
 
 	public static void main(String[] args) {
 		Practice5ArrayAdd p5a = new Practice5ArrayAdd();

@@ -1,4 +1,4 @@
-package com.kh.kimminjeong;
+package com.kh.examples.model.vo;
 
 import java.util.Scanner;
 
